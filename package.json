@@ -1,0 +1,24 @@
+{
+  "name": "recognizing-hand-gestures",
+  "version": "1.0.0",
+  "description": "<!-- <h1 align=\"center\"> Project Title </h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start --server --files src/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-sbardelotto/recognizing-hand-gestures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristian-sbardelotto/recognizing-hand-gestures/issues"
+  },
+  "homepage": "https://github.com/cristian-sbardelotto/recognizing-hand-gestures#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
